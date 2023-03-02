@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jVVxCKb41QObw5xOe61yOUU32aV8fBmMEaLP03NhN4cZ/cF/Rtmgi4OgiOcH8amXopktu+LKPHnmEQSLIC7bFA==",
+  "dgSpecHash": "+G1mNtM0saMEaYeQT1wyuaVH93xahep6/4BREwduynhs9vVmMrkdDtf3NlesOnSAHCqZFaXzR3sdgmPQhF95ng==",
   "success": true,
   "projectFilePath": "/Users/samuelherrera/Documents/Github/todo/backend/todo/todo/todo.csproj",
   "expectedPackageFiles": [
-    "/Users/samuelherrera/.nuget/packages/microsoft.aspnetcore.openapi/7.0.0/microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
+    "/Users/samuelherrera/.nuget/packages/microsoft.aspnetcore.openapi/7.0.3/microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "/Users/samuelherrera/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/samuelherrera/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/Users/samuelherrera/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
