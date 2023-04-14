@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/samuelherrera/Documents/Github/todo/backend/todo/todo/todo.csproj": {}
+    "/Users/luistrujillo/Documents/GitHub/todo/backend/todo/todo/todo.csproj": {}
   },
   "projects": {
-    "/Users/samuelherrera/Documents/Github/todo/backend/todo/todo/todo.csproj": {
+    "/Users/luistrujillo/Documents/GitHub/todo/backend/todo/todo/todo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/samuelherrera/Documents/Github/todo/backend/todo/todo/todo.csproj",
+        "projectUniqueName": "/Users/luistrujillo/Documents/GitHub/todo/backend/todo/todo/todo.csproj",
         "projectName": "todo",
-        "projectPath": "/Users/samuelherrera/Documents/Github/todo/backend/todo/todo/todo.csproj",
-        "packagesPath": "/Users/samuelherrera/.nuget/packages/",
-        "outputPath": "/Users/samuelherrera/Documents/Github/todo/backend/todo/todo/obj/",
+        "projectPath": "/Users/luistrujillo/Documents/GitHub/todo/backend/todo/todo/todo.csproj",
+        "packagesPath": "/Users/luistrujillo/.nuget/packages/",
+        "outputPath": "/Users/luistrujillo/Documents/GitHub/todo/backend/todo/todo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/samuelherrera/.nuget/NuGet/NuGet.Config"
+          "/Users/luistrujillo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -42,6 +42,24 @@
               "target": "Package",
               "version": "[7.0.3, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -66,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
